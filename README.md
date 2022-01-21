@@ -1,2 +1,4 @@
 # Basic-OpenCV
-This is the code from Tutorial Youtube Programming Knowledge
+Ini adalah program untuk mengetahu method method dari library openCV
+
+Source belajar dari youtube : ProgrammingKnowledge
